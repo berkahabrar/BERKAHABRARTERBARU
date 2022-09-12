@@ -1,0 +1,290 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwerty1234",
+      "backup_ads_intertitial":"qwerty1234",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [
+  {
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/YENYENA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "DANGDUT YENI INKA",
+      "image": "file:///android_asset/image/YENYENB.jpg"
+    },
+	{
+      "id": 3,
+      "name_category": "DANGDUT KOPLO",
+      "image": "file:///android_asset/image/YENYENB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI1.ogg",
+    "lyrics": "<p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p>Baca Juga: Link Nonton Gara-Gara Warisan, Temukan Keseruan Adam, Laras, dan Dicky Memperebutkan Warisan</p><p>Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p><p>Jelas bedo yen dibandingke<br />Ora ono sing tak pamerke<br />Aku raiso yen kon gawe gawe<br />Jujur sak onone</p><p>Sopo wonge sing ra loro ati<br />Wes ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Raono ajine</p><p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p>Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p><p>Sopo wonge sing ra loro ati<br />Wes ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Raono ajine</p><p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyako aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p>Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu<br />Ku berharap engkau mengerti<br />Di hati ini hanya ada kamu</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI2.ogg",
+    "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p>Ning Purwokerto tuku ketan<br />Iki cerito anak rantauan<br />Lombok rawit pedes tenan<br />Golek duwit kanggo masa depan<br />Golek duwit kanggo masa depan (hey-hek!)</p><p>Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep semangat kanggo masa depan<br />Tetep semangat kanggo masa depan</p><p>Godhong kenikir, godhong koro<br />Jo dipikir aku arep ngliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p>Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p>Ning Banyuwangi tuku ketan<br />Iki cerito anak rantauan<br />Lombok rawit pedes tenan<br />Golek duwit kanggo masa depan<br />Golek duwit kanggo masa depan</p><p>Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep semangat kanggo masa depan<br />Tetep semangat kanggo masa depan (hey-yo-hek-hey!)</p><p>Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p>Joko Tingkir ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI3.ogg",
+    "lyrics": "<p>Unine batin dongoku<br />Ra luput ko jenengmu<br />Aku ngedem-ngedem atimu<br />Bakoh mempertahankanmu<br />Aku mempertahankanmu (tenan lho, ya?)<br />Kanggo selawase</p><p>Gusti, kulo pun manut dalane<br />Mung Njenengan sing ngatur critane<br />Sing jelas, aku mikir ke depane<br />Opo bakal hubungan satru sak teruse?</p><p>Tulung percoyo, aku sayang awakmu<br />Buktine sampeyan nglirik liyane<br />Sumpah, ra koyo seng mbok pikir selama iki<br />Mas, isohku meneng, ngajeni awakmu</p><p>Sepurane yen aku salah<br />Sepurane yen aku neng uripmu mung masalah<br />Rangkulen aku<br />Iki nggur mung salah pahamku<br />Yok a, hok e</p><p>Satru hubungan mung salah pahammu<br />Sampeyan kudu ngerteni, aku cemburu</p><p>Gusti, kulo pun manut dalane<br />Mung Njenengan sing ngatur critane<br />Sing jelas, aku mikir ke depane<br />Opo bakal hubungan satru sak teruse?</p><p>Tulung percoyo, aku sayang awakmu<br />Buktine sampeyan nglirik liyane<br />Sumpah, ra koyo seng mbok pikir selama iki<br />Mas, isohku meneng, ngajeni awakmu</p><p>Sepurane yen aku salah<br />Sepurane yen aku neng uripmu mung masalah<br />Rangkulen aku<br />Iki nggur mung salah pahammu</p><p>Unine batin dongoku<br />Ra luput ko jenengmu</p><p>Gusti, kulo pun manut dalane<br />Mung Njenengan sing ngatur critane<br />Sing jelas...</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI4.ogg",
+    "lyrics": "<p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, ku mimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa<br />Malam Di malam pesta engkau bisikkan<br />Kata azimat di telinga</p><p>Kita, terpaksa berpisah untuk mencari arah<br />Kita, dipukul ombak hidup alam yang nyata<br />Anda jauh meniti puncak menara gading<br />Hanya dijanjikan hidup sempurna<br />Tapi aku, tunduk pada bumi<br />Hidup tertekan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan berkeringat membasah bumi<br />Di penjara terkurung terhukum<br />Hanya berteman dengan sepi</p><p>Bisa menghargai<br />Cintaku yang suci ini<br />Oh! Tiara, pedihnya<br />Dapat merasakan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara terkurung terhukum<br />Hanya bertemankan sepi</p><p>Bisa, masihkah engkau<br />Hargai cintaku lagi<br />Oh! Tiara pedihnya dapatkah kau merasakan<br />Oh! Tiara pedihnya dapatkah kau merasakannya<br />Tiara, Oh!</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "KLEBUS",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI6.ogg",
+    "lyrics": "<p>Dalane rame atiku sepi<br />Angen angen tresno dibales tresno<br />Nyatane tresno dibales maturnuwun<br />Uwis nyaman<br />Sempet sayang<br />Kok malah ngilang</p><p>Meh lungo angel bertahan loro<br />Nyobo selalu ono meski koe raono roso<br />Roso sing jebul tak rasakne dewe<br />Kebacut sayang<br />Ngek i harapan<br />Koe milih liyane</p><p>Langit e peteng<br />Udane soyo deres klebus tekan atiku<br />Cedak e karo aku<br />Nanging atimu dionggo wong liyo</p><p>Wis dalane dadi pelarian<br />Dingo sliramu sing lagi butuh hiburan<br />Aku sing sayang<br />Aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p><p>Langit e peteng<br />Udane soyo deres klebus tekan atiku<br />Cedak e karo aku<br />Nanging atimu dionggo wong liyo</p><p>Wis dalane dadi pelarian<br />Dingo sliramu sing lagi butuh hiburan<br />Aku sing sayang<br />Aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p><p>Wis dalane dadi pelarian<br />Dingo sliramu sing lagi butuh hiburan<br />Aku sing sayang<br />Aku sing berjuang<br />Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p><p>Bagianmu koyo biasane<br />Bagian sing nglarani aku wae</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI7.ogg",
+    "lyrics": "<p>Deraian demi deraian air mata<br />Ku peluk mesra saat kita berpisah<br />Satu yang ku pinta, setialah padaku<br />Hanya dirimu ku cinta</p><p>Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p>Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p>Tiada satu yang terindah<br />Selain dirimu yang ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p>Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu, sayangku<br />Dermaga biru saksi bisu</p><p>Walaupun ku terlanjur, sayang<br />Meninggalkan dia yang ku cinta<br />Namun hatiku terasa berat<br />Pahit manisnya ku telan jua</p><p>Tiada satu yang terindah<br />Selain dirimu yang 'ku sayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p>Sabarlah, adindaku<br />Pasti ku kembali<br />Sabarlah, oh, kasihku<br />Pasti ku kembali</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "BOJO LORO",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "SAYANG AKU KECAPEKAN",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "INFONE MASE",
+    "image": "file:///android_asset/image/YENYENA.jpg",
+    "link_mp3": "mp3/YENBUMKI11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI12.ogg",
+    "lyrics": "Dinginnya angin malam ini menyapa tubuhku</br>Namun tidak dapat dinginkan panasnya hatiku ini</br>Terasa terhempasnya kelakianku ini dengan sikapmu</br>Apakah karena aku insan kekurangan mudahnya kau mainkan</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu"
+  },
+  {
+    "id": 13,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI13.ogg",
+    "lyrics": "<p>Terminal Madiun Ngawi kenanganku</br>Ora bakalan aku ngelalekke</br>Mbiyen aku nduwe pacar anakke pak Tukiran</br>Bakul pecel ono ning pinggir prapatan</br><p>Terminal Madiun Ngawi nggen dolanku</br>Ora bakalan aku ngelalekke</br>Mbiyen jaman semono kowe janji karo aku</br>Nanging nyatane kowe ngingkari janjimu</br><p>Yen aku kangen kangen karo sliramu</br>Tak sawang sawang fotomu ning dompetku</br>Yen aku kangen kangen karo sliramu</br>Tak elus elus fotomu ning dompetku</br><p>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang fotomu ning dompetku</br>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang jenengmu ning atiku</br><p>Terminal Madiun Ngawi nggen dolanku</br>Ora bakalan aku ngelalekke</br>Mbiyen jaman semono kowe janji karo aku</br>Nanging nyatane kowe ngingkari janjimu</br><p>Yen aku kangen kangen karo sliramu</br>Tak sawang sawang fotomu ning dompetku</br>Yen aku kangen kangen karo sliramu</br>Tak elus elus fotomu ning dompetku</br><p>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang fotomu ning dompetku</br>Opo kowe ra kroso tak batin saben dino</br>Ra bakal ilang jenengmu ning atiku</br></br>"
+  },
+  {
+    "id": 14,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "DURI DURI",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI14.ogg",
+    "lyrics": "Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Sekarang ku tahu dirimu telah bersamanya</br>Walau sakit hati yang ku rasa</br>Akan ku jalani dengan sendirinya</br><p>Ku terus berjuang walau tanpamu sayang</br>Mimpi mimpi yang telah ku ciptakan</br>Kini hanya tinggallah kenangan</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Ku terus berjuang walau tanpamu sayang</br>Mimpi mimpi yang telah ku ciptakan</br>Kini hanya tinggallah kenangan</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br><p>Duri duri yang kau tancapkan di hati ini</br>Membuat diriku sakit hati</br>Aku yang berjuang tuk dirimu</br>Tapi dia yang dapatkan cintamu</br><p>Surat undangan yang kau berikan kepadaku</br>Serasa ku tak percaya</br>Ku titipkan cintaku kepadanya</br>Jagalah dia, buatlah dia bahagia</br>agalah dia, buatlah dia bahagia</br>"
+  },
+  {
+    "id": 15,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "BIDADARI CINTA",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI15.ogg",
+    "lyrics": "bersyukur kepada allah</br>ku telah dipertemukan</br>kekasih baik hati sepertimu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>apa pun adanya engkau</br>kurela dan menerima</br>segenap jiwa ragaku untukmu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br><p>sampai ajal menjemputku</br>ku selalu mencintamu</br>menyayangmu</br>engkau tulang rusukku</br><p>hingga di syurga-nya allah</br>kuingin bersamamu</br>dan menjadi bidadari cintamu</br>dan menjadi bidadari cintamu</br>dan menjadi bidadari cintamu</br>"
+  },
+  {
+    "id": 16,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI16.ogg",
+    "lyrics": "Wes tak cobo ngampet loro</br>Wes tak cobo jogo tresno</br>Loro sing tok jalari ora tak rasakke</br>Najan aku ngerti koe karo liyane</br><p>Cobo koe ono ning posisiku</br>Opo koe iso kuat atimu</br>Ngrasakke tok larani</br>Ning sak bendinoku</br>Koe ra ngroso kok malah suloyo</br><p>Kulo pun angkat tangan</br>Atine pun ajur ajuran</br>Kulo tak milih pamit</br>Ati kulo pun roso sakit</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br><p>Kulo pun angkat tangan</br>Atine pun ajur ajuran</br>Kulo tak milih pamit</br>Ati Kulo Pun Roso Sakit</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br><p>Ngapurane sayang</br>Aku udu wong top topan</br>Ora koyo idamanmu</br>Sing gampang nrobos atimu</br><p>Aku janne ngerti koe ghosting ati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br>Tak cobo goblok tetap mencintai</br>Sepenuh hati</br>>"
+  },
+  {
+    "id": 17,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "SIA SIA BERJUANG",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI17.ogg",
+    "lyrics": "Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Sayang ku sedang berjuang</br>Untuk melamar dirimu</br>Tapi mengapa kau tinggalkanku</br>Demi orang yang baru kau kenal</br><p>Tiga tahun kita telah bersama</br>Menjalani hubungan cinta kita</br>Orang tuamu tak merestui kita</br>Sungguh sakit hati ini rasanya</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Tiga tahun kita telah bersama</br>Menjalani hubungan cinta kita</br>Orang tuamu tak merestui kita</br>Sungguh sakit hati ini rasanya</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br><p>Sia-sia ku berjuang</br>Merantau di negeri orang</br>Semua ku lakukan untukmu sayang</br>Tapi kau malah putuskan hubungan</br><p>Sungguh sakit hati ini sakit</br>Mendengar kabar kau telah dijodohkan</br>Orang tuamu tak merestui kita</br>Ku hanya bisa mendoakan engkau bahagia</br>Ku hanya bisa mendoakan engkau bahagia</br>"
+  },
+  {
+    "id": 18,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "JIKA",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "KEHADIRAN CINTA",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "MENDUNG TNAPO UDAN",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI20.ogg",
+    "lyrics": "Dinginnya angin malam ini menyapa tubuhku</br>Namun tidak dapat dinginkan panasnya hatiku ini</br>Terasa terhempasnya kelakianku ini dengan sikapmu</br>Apakah karena aku insan kekurangan mudahnya kau mainkan</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu</br><p>Oh mungkinkah diri ini</br>Dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta, yang kau ucap dalam janji cinta</br>Juga mustahil bagiku, menggapai bintang di langit</br>Siapa lah diriku hanya insan biasa</br>Semua itu, sungguh aku tiada mampu</br><p>Salah aku juga, karena jatuh cinta</br>Insan sepertimu seanggun bidadari</br>Seharusnya aku, cerminkan diriku</br>Sebelum tirai hati aku buka</br>Untuk mencintaimu"
+  },
+  {
+    "id": 21,
+    "name_category": "DANGDUT YENI INKA",
+    "title": "ANGEL",
+    "image": "file:///android_asset/image/YENYENB.jpg",
+    "link_mp3": "mp3/YENBUMKI21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "DANGDUT KOPLO",
+    "title": "CIDRO",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "DANGDUT KOPLO",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "DANGDUT KOPLO",
+    "title": "SATRU",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "DANGDUT KOPLO",
+    "title": "WES TATAS",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "DANGDUT KOPLO",
+    "title": "TALINING ASMORO",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "DANGDUT KOPLO",
+    "title": "TRESNO SUDRO",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "DANGDUT KOPLO",
+    "title": "SOTYA",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "DANGDUT KOPLO",
+    "title": "CERITO 2",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "DANGDUT KOPLO",
+    "title": "LEYEH LEYEH",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI30.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "DANGDUT KOPLO",
+    "title": "SALAM TRESNO",
+    "image": "file:///android_asset/image/YENYENc.jpg",
+    "link_mp3": "mp3/YENBUMKI31.ogg",
+    "lyrics": ""
+  }
+  ]
+}
