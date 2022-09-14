@@ -1,0 +1,256 @@
+{
+  "Ads": [{
+    "select_main_ads": "ADMOB",
+    "select_backup_ads": "",
+    "main_ads_banner": "",
+    "main_ads_intertitial": "",
+    "backup_ads_banner": "qwert12345",
+    "backup_ads_intertitial": "qwert12345",
+    "interval_intertitial": 3,
+    "initialize_sdk": "null",
+    "initialize_sdk_backup_ads": "null",
+    "high_paying_keyword_1": "",
+    "high_paying_keyword_2": "",
+    "high_paying_keyword_3": "",
+    "high_paying_keyword_4": "",
+    "high_paying_keyword_5": "",
+    "status_app": "0",
+    "link_redirect": "https://"
+  }],
+  "Categories": [{
+    "id": 1,
+    "name_category": "ADELLA TERBARU",
+    "image": "file:///android_asset/image/A.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "KOPLO ASIK",
+      "image": "file:///android_asset/image/B.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "ADELLA TERBARU",
+    "title": "BUIH JADI PERMADANI",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM1.ogg",
+    "lyrics": "<p>Dinginnya angin malam ini</br>Menyapa tubuhku</br>Namun tidak dapat dinginkan panasnya</br>Hatiku ini</br>Terasa terhempasnya kelakianku ini</br>Dengan sikapmuApakah karna aku</br>Insan kekurangan</br>Mudahnya kau mainkan</br><p>Oh mungkinkah diri ini</br><p>dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta yang kau ucap</br>Dalam janji cinta</br>Juga mustahil bagiku</br>Menggapai bintang di langit</br>Siapalah diriku</br>Hanya insan biasa</br>Semua itu</br>Sungguh aku tiada mampu</br>Salah aku juga</br>Karna jatuh cinta</br>Insan seperti dirimu seanggun bidadari</br>Seharusnya aku</br><p>Cerminkan diriku</br>Sebelum tirai hati</br>Aku buka</br>Untuk mencintaimu</br><p>Oh mungkinkah diri ini</br><p>dapat merubah buih yang memutih</br>Menjadi permadani</br>Seperti pinta yang kau ucap</br>Dalam janji cinta</br><p>Juga mustahil bagiku</br>Menggapai bintang di langit</br>Siapalah diriku</br>Hanya insan biasa</br>Semua itu</br>Sungguh aku tiada mampu</br>Salah aku juga</br>Karna jatuh cinta</br>Insan seperti dirimu seanggun bidadari</br>Seharusnya aku</br><p>Cerminkan diriku</br>Sebelum tirai hati</br>Aku buka</br>Untuk mencintaimu</br>"
+  },
+  {
+    "id": 2,
+    "name_category": "ADELLA TERBARU",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM2.ogg",
+    "lyrics": "<p>Joko Tingkir Ngombe dawet<br />Jo dipikir marai mumet<br />Ngopek jamur nggone mbah wage<br />Pantang mundur terus nyambut gawe</p><p><br />Ning Banyuwangi Tuku Ketan<br />Iki Cerito Anak Rantauan<br />Lombok Rawit Pedes Tenan<br />Golek Duwet Kanggo Masa Depan</p><p><br />Rokok Klobot Ning Ngisor Wit Mlinjo<br />Paling Abot Ninggal Anak Bojo<br />Tuku Donat Ning Kalimantan<br />Tetep Semangat Kanggo Masa Depan</p><p><br />Godong Knikir Godong Koro<br />Ojo Dipikir Aku Arep Ngliyo<br />Mangan Jamur Mangan Koro<br />Aku Jujur Kowe ra Percoyo</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "ADELLA TERBARU",
+    "title": "OJO DIBANDINGKE",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM3.ogg",
+    "lyrics": "<p>Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Jelas Bedo Yen Dibandingke<br />Ora Ono Sing Tak Pamerke<br />Aku Raiso Yen Kon Gawe Gawe<br />Jujur Sak Onone</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p><p><br />Sopo Wonge Sing Ra Loro Ati<br />Wes Ngancani Tekan Semene<br />Nanging Kabeh Ora Ono Artine<br />Raono Ajine</p><p><br />Wong Ko Ngene Kok Dibanding-bandingke<br />Saing-saingke Yo Mesti Kalah<br />Tak Oyako Aku Yo Ora Mampu<br />Mung Sak Kuatku Mencintaimu</p><p><br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu<br />Ku Berharap Engkau Mengerti<br />Di Hati Ini Hanya Ada Kamu</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "ADELLA TERBARU",
+    "title": "SATRU 2",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "ADELLA TERBARU",
+    "title": "TIARA",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM5.ogg",
+    "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini?</p><p><br />Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p><p><br />Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p><br />Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai Cintaku yang suci ini?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?<br />Oh, Tiara, pedihnya<br />Dapatkah kau merasakan?</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "ADELLA TERBARU",
+    "title": "SAYANG AKU KECAPEKAN",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "ADELLA TERBARU",
+    "title": "DERMAGA BIRU",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM7.ogg",
+    "lyrics": "<p>(Difarina Indra)<br />Deraian demi deraian air mata<br />Kupeluk mesra saat kita berpisah<br />Satu yang kupinta, setialah padaku<br />Hanya dirimu kucinta</p><p>&nbsp;</p><p>(Fendik)<br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />(Difarina Indra &amp; Fendik)<br />Dermaga biru saksi bisu</p><p><br />(Difarina Indra)<br />Walaupun ku terlanjur saying<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p><br />(Fendik)<br />Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />(Fendik)<br />Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />(Fendik &amp; Difarina Indra)<br />Dermaga biru saksi bisu</p><p><br />(Difarina Indra)<br />Walaupun ku terlanjur saying<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p><br />(Fendik)<br />Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p><br />(Fendik)<br />Sabarlah adindaku<br />Pasti kukembali<br />(Difarina Indra)<br />Sabarlah oh kasihku<br />Pasti kukembali</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "ADELLA TERBARU",
+    "title": "FULL SENYUM SAYANG",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM8.ogg",
+    "lyrics": "<p>Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas-jelas aku ndak mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "ADELLA TERBARU",
+    "title": "KOYO JOGJA ISTIMEWA",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "ADELLA TERBARU",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "ADELLA TERBARU",
+    "title": "DURI DURI",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM11.ogg",
+    "lyrics": "<p>Sekarang ku tau dirimu telah bersamanya <br />Walau sakit hati yang ku Rasa <br />Akan ku jalani dengan sendirinya <br /><br />Ku terus berjuang, walau tanpamu sayang <br />Mimpi-mimpi yang telah ku ciptakan <br />Kini hanya tinggallah kenangan <br /><br />Duri-duri yang kau tancapkan di hati ini <br />Membuat diriku sakit hati <br />Aku yang berjuang tuk dirimu <br />Tapi dia Yang dapatkan Cintamu</p><p>Surat undangan yang kau berikan kepadaku <br />Serasa ku tak percaya <br />Ku titipkan cintaku kepadanya <br />Jagalah dia buat lah dia bahagia</p><p>Sekarang ku tau dirimu telah bersamanya <br />Walau sakit hati yang ku Rasa <br />Akan ku jalani dengan sendirinya <br /><br />Ku terus berjuang, walau tanpamu sayang <br />Mimpi-mimpi yang telah ku ciptakan <br />Kini hanya tinggallah kenangan <br /><br />Duri-duri yang kau tancapkan di hati ini <br />Membuat diriku sakit hati <br />Aku yang berjuang tuk dirimu <br />Tapi dia Yang dapatkan Cintamu</p><p>Surat undangan yang kau berikan kepadaku <br />Serasa ku tak percaya <br />Ku titipkan cintaku kepadanya <br />Jagalah dia buat lah dia bahagia</p><p>Sekarang ku tau dirimu telah bersamanya <br />Walau sakit hati yang ku Rasa <br />Akan ku jalani dengan sendirinya <br /><br />Ku terus berjuang, walau tanpamu sayang <br />Mimpi-mimpi yang telah ku ciptakan <br />Kini hanya tinggallah kenangan <br /><br />Duri-duri yang kau tancapkan di hati ini <br />Membuat diriku sakit hati <br />Aku yang berjuang tuk dirimu <br />Tapi dia Yang dapatkan Cintamu</p><p>Surat undangan yang kau berikan kepadaku <br />Serasa ku tak percaya <br />Ku titipkan cintaku kepadanya <br />Jagalah dia buat lah dia bahagia</p><p>Duri-duri yang kau tancapkan di hati ini <br />Membuat diriku sakit hati <br />Aku yang berjuang tuk dirimu <br />Tapi dia Yang dapatkan Cintamu</p><p>Surat undangan yang kau berikan kepadaku <br />Serasa ku tak percaya <br />Ku titipkan cintaku kepadanya <br />Jagalah dia buat lah dia bahagia</p><p>Jagalah dia buat lah dia bahagia</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "ADELLA TERBARU",
+    "title": "ACA ACA NEHI NEHI",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM12.ogg",
+    "lyrics": "<p><em>Mamamamama mau makan mau minum bikin sendiri</em><br /><em>Cuci baju celana nyetrika pun sendiri</em><br /><em>Apalagi bila tanggal tua mendekati</em><br /><em>Aku bagai perawan yang tak punya suami</em></p><p><em>Nasib memang nasib jadi begini</em><br /><em>Semuanya apa-apa ku lakukan sendiri</em><br /><em>Lama-lama mumet juga eh kalo begini</em><br /><em>Bisa talak tilu talak tilu</em></p><p><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu terus begitu</em></p><p><em>Pulang saja kau pulang ke rumah orang tuamu</em></p><p><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila dirimu terus begitu</em><br /><em>Aku pulangkan kamu</em></p><p><em>Hoo&hellip; maunya aku marah eh aku bingung sendiri</em><br /><em>Baru mau ngomong eh malah ditinggal pergi</em><br /><em>Mondar mandir sendiri bingung mau ngapain</em></p><p><em>Ampun gusti ampuni hambamu ini</em><br /><em>Bila ada uang aku disayang</em><br /><em>Bila tak ada, jatah kopi pun hilang</em><br /><em>Lama-lama kalau begini rontok hatiku</em></p><p><em>Bisa talak tilu talak tilu</em></p><p><br /><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu terus begitu</em></p><p><em>Pulang saja kau pulang ke rumah orang tuamu</em></p><p><br /><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila dirimu terus begitu</em><br /><em>Aku pulangkan kamu</em></p><p><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu terus begitu</em><br /><em>Aku pulangkan kamu</em></p><p><em>Alalala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu selalu begitu</em><br /><em>Aku pulangkan kamu.</em></p><p><em>Alala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu terus begitu</em><br /><em>Aku pulangkan kamu</em></p><p><em>Alalala tum jahe jahe aca aca nehi nehi</em><br /><em>Aduh biyung inyong ora sudi</em><br /><em>Bila sifatmu selalu begitu</em><br /><em>Aku pulangkan kamu.</em></p>"
+  },
+  {
+    "id": 13,
+    "name_category": "ADELLA TERBARU",
+    "title": "CIDRO 3",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM13.ogg",
+    "lyrics": "<p>Ora Perpisahan Sing Dadi Getuning Atii<br />Nanging Nyapo Mbiyen Kowe Tak Senengi<br />Nyenengi Sliramu Gawe Loro Atiku<br />Getune Nyapo Mbiyen Ketemu .</p><p>Jare Kowe Wes Ngukir Jenengku.<br />Mbok Patri Ning Njero Atimu<br />Yen Iling Mbiyen Karo Janjimu<br />Tresnomu Mung Siji Yo Aku<br />Ningopo Saikine Cidro<br />Kabeh Omongmu Kuwi Gombal Mukiyo</p><p>Sopo Wonge Sing Ra Bakal Tatu<br />Nyenengi Wong Koyo Sliramu<br />Ngomong Cinta Sayang Mung Ning Aku<br />Janji Setiyo Sak Umur Uripmu<br />Ningopo Sak Ikine Tego<br />Ning Ngarep Moto Kowe<br />Nggandeng Wong Liyo</p><p>Hoho. Keiris Atiku</p><p>Ancen Rogo Iki Ora Nggetih Senajan Tatu<br />Mergo Roso Perihe Ning Njero Dodoku<br />Gulone Manis Isih Manis Madu<br />Mergane Sing Mbok Iris Atiku</p><p>Ora Perpisahan Sing Dadi Getuning Atii<br />Nanging Nyapo Mbiyen Kowe Tak Senengi <br />Nyenengi Sliramu Gawe Loro Atiku<br />Getune Nyapo Mbiyen Ketemu.</p><p>Sopo Wonge Sing Ra Bakal Tatu<br />Nyenengi Wong Koyo Sliramu<br />Ngomong Cinta Sayang Mung Ning Aku<br />Janji Setiyo Sak Umur Uripmu<br />Ningopo Sak Ikine Tego<br />Ning Ngarep Moto Kowe<br />Nggandeng Wong Liyo</p><p>Hoho. Keiris Atiku</p><p>Ancen Rogo Iki Ora Nggetih Senajan Tatu<br />Mergo Roso Perihe Ning Njero Dodoku<br />Gulone Manis Isih Manis Madu<br />Mergane Sing Mbok Iris Atiku</p><p>Ora Perpisahan Sing Dadi Getuning Atii<br />Nanging Nyapo Mbiyen Kowe Tak Senengi<br />Nyenengi Sliramu Gawe Loro Atiku<br />Getune Nyapo Mbiyen Ketemu .</p><p>Getune Nyapo Mbiyen Ketemu .</p>"
+  },
+  {
+    "id": 14,
+    "name_category": "ADELLA TERBARU",
+    "title": "TOP TOPAN",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/BJADPRM14.ogg",
+    "lyrics": "<p>wes tak cobo ngampet loro<br />wes tak cobo jogo tresno<br />loro sing tok jalari ora tak rasakke<br />najan aku ngerti koe karo liyane</p><p>cobo koe ono ning posisiku<br />opo koe iso kuat atimu<br />ngrasakke tok larani<br />ning sak bendinoku<br />koe ra ngroso kok malah suloyo</p><p>kulo pun angkat tangan<br />atine pun ajur ajuran</p><p>kulo tak milih pamit<br />ati kulo pun roso sakit</p><p><br />ngapurane sayang<br />aku udu wong top topan<br />ora koyo idamanmu<br />sing gampang nrobos atimu<br />aku janne ngerti koe ghosting ati<br />tak cobo goblok tetap mencintai<br />sepenuh hati</p><p>kulo pun angkat tangan<br />atine pun ajur ajuran<br />kulo tak milih pamit<br />ati kulo pun roso sakit</p><p>ngapurane sayang<br />aku udu wong top topan<br />ora koyo idamanmu<br />sing gampang nrobos atimu<br />aku janne ngerti koe ghosting ati<br />tak cobo goblok tetap mencintai<br />sepenuh hati</p><p>kulo pun angkat tangan<br />atine pun ajur ajuran<br />kulo tak milih pamit<br />ati kulo pun roso sakit</p><p>ngapurane sayang<br />aku udu wong top topan<br />ora koyo idamanmu<br />sing gampang nrobos atimu<br />aku janne ngerti koe ghosting ati<br />tak cobo goblok tetap mencintai<br />sepenuh hati</p><p>ngapurane sayang<br />aku udu wong top topan<br />ora koyo idamanmu<br />sing gampang nrobos atimu</p><p>aku janne ngerti koe ghosting ati<br />tak cobo goblok tetap mencintai<br />sepenuh hati</p><p>tak cobo goblok tetap mencintai<br />sepenuh hati</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "KOPLO ASIK",
+    "title": "MADIUN NGAWI",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM15.ogg",
+    "lyrics": "<p>Terminal madiun ngawi kenanganku<br />Ora bakalan aku ngelalekke<br />Mbiyen aku nduwe pacar anake pak tukiran<br />Bakul pecel ono ning pinggir prapatan</p><p>Terminal madiun ngawi nggen dolanku<br />Ora bakalan aku ngelalekke<br />Mbiyen jaman semono kowe janji karo aku<br />Nanging nyatane kowe ngingkari janjimu</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak sawang-sawang<br />Fotomu ning dompetku</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak elus elus<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Jenengmu ning atiku</p><p>Terminal madiun ngawi nggen dolanku<br />Ora bakalan aku ngelalekke<br />Mbiyen jaman semono kowe janji karo aku<br />Nanging nyatane kowe ngingkari janjimu</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak sawang-sawang<br />Fotomu ning dompetku</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak elus-elus<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Jenengmu ning atiku</p><p>Terminal madiun ngawi nggen dolanku<br />Ora bakalan aku ngelalekke<br />Mbiyen jaman semono kowe janji karo aku<br />Nanging nyatane kowe ngingkari janjimu</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak sawang-sawang<br />Fotomu ning dompetku</p><p>Yen aku kangen<br />Kangen karo sliramu<br />Tak elus-elus<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Fotomu ning dompetku</p><p>Opo kowe ra kroso<br />Tak batin saben dino<br />Ra bakal ilang<br />Jenengmu ning atiku</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "KOPLO ASIK",
+    "title": "BIDADARI CINTA",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM16.ogg",
+    "lyrics": "<p>Bersyukur kepada Allah<br />Ku telah dipertemukan<br />Kekasih baik hati sepertimu</p><p>Apa pun adanya engkau<br />Kurela dan menerima<br />Segenap jiwa ragaku untukmu</p><p>Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku</p><p>Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p>Apa pun adanya engkau<br />Kurela dan menerima<br />Segenap jiwa ragaku untukmu</p><p>Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku</p><p>Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p>Apa pun adanya engkau<br />Kurela dan menerima<br />Segenap jiwa ragaku untukmu</p><p>Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku</p><p>Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p>Sampai ajal menjemputku<br />Ku selalu mencintamu<br />Menyayangmu<br />Engkau tulang rusukku</p><p>Hingga di syurga-Nya Allah<br />Kuingin bersamamu<br />Dan menjadi bidadari cintamu</p><p>Dan menjadi bidadari cintaku<br />Dan menjadi bidadari cintamu</p>"
+  },
+  {
+    "id": 17,
+    "name_category": "KOPLO ASIK",
+    "title": "SETIA UNTUK SELAMANYA",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "KOPLO ASIK",
+    "title": "MENDUNG TANPO UDAN",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM18.ogg",
+    "lyrics": "<p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Mlaku bebarengan<br />Bendino sayang-sayangan<br />Sedih lan kebahagiaan<br />Dilewati tahun-tahunan</p><p>Padu meneng-menengan<br />Bar kuwi kangen-kangenan<br />Kadang bedo pilihan<br />Nganti pedot balik'an</p><p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan, oh-oh</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Mlaku bebarengan<br />Bendino sayang-sayangan<br />Sedih lan kebahagiaan<br />Dilewati tahun-tahunan</p><p>Padu meneng-menengan<br />Bar kuwi kangen-kangenan<br />Kadang bedo pilihan<br />Nganti pedot balik'an</p><p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Mendung tanpo udan<br />Ketemu lan kelangan<br />Kabeh kuwi sing diarani perjalanan, oh-oh</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p><p>Awak dewe tau nduwe bayangan<br />Besok, yen wes wayah omah-omahan<br />Kowe moco koran, sarungan<br />Aku blonjo, dasteran</p><p>Nanging saiki wes dadi kenangan<br />Aku karo kowe wes pisahan<br />Aku kiri, kowe kanan<br />Wes bedo dalan<br />Aku kiri, kowe kanan<br />Wes bedo dalan</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "KOPLO ASIK",
+    "title": "REMBULAN MALAM",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "KOPLO ASIK",
+    "title": "EMAS HANTARAN",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "KOPLO ASIK",
+    "title": "GEDANG ROJO",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "KOPLO ASIK",
+    "title": "SOTYA",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "KOPLO ASIK",
+    "title": "SALAM TRESNO",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "KOPLO ASIK",
+    "title": "JADA BARU",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "KOPLO ASIK",
+    "title": "ANGEL",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "KOPLO ASIK",
+    "title": "CERITO LORO",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "KOPLO ASIK",
+    "title": "KANDAS",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "KOPLO ASIK",
+    "title": "LEMAH TELES",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/BJADPRM28.ogg",
+    "lyrics": ""
+  }
+  ]
+}
