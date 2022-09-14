@@ -21,81 +21,256 @@
       "link_redirect": "https://"
     }
   ],
-  "Categories": [
-    {
-      "id": 1,
-      "name_category": "Khalid Basalamah",
-      "image": "file:///android_asset/image/khalid.jpg"
-    },
+  "Categories": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "image": "file:///android_asset/image/hapa.jpg"
+  },
     {
       "id": 2,
-      "name_category": "Hanan Attaki",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg"
-    },
-    {
-      "id": 3,
-      "name_category": "Mr. Kim",
-      "image": "file:///android_asset/image/kim.jpeg"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg"
-    },
-    {
-      "id": 4,
-      "name_category": "Adi Hidayat",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg"
+      "name_category": "KOPLO ASIK",
+      "image": "file:///android_asset/image/hapb.jpg"
     }
   ],
-  "Data": [
-    {
-      "id": 1,
-      "name_category": "Khalid Basalamah",
-      "title": "Paksakan Ibadah",
-      "image": "https://carapandang.com/assets/images/news/carapandang-30506.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/paksakan_ibadah.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>" },
-    {
-      "id": 2,
-      "name_category": "Khalid Basalamah",
-      "title": "Dosa Membawa Keburukan",
-      "image": "file:///android_asset/image/khalid.jpg",
-      "link_mp3": "mp3/dosa_membawa_keburukan.ogg",
-      "lyrics": "<p style=\"text-align: center;\">Tombo ati iku limo perkarane</p>\n<p style=\"text-align: center;\">Kaping pisan moco Qur&rsquo;an lan maknane</p>\n<p style=\"text-align: center;\">Kaping pindo sholat wengi lakonono</p>\n<p style=\"text-align: center;\">Kaping telu wong kang sholeh kumpulono</p>\n<p style=\"text-align: center;\">Kaping papat kudu weteng ingkang luwe</p>\n<p style=\"text-align: center;\">Kaping limo dzikir wengi ingkang suwe</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salah sawijine sopo bisa ngelakoni</p>\n<p style=\"text-align: center;\">Mugi-mugi gusti Allah nyembadani</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Obat hati ada lima perkaranya</p>\n<p style=\"text-align: center;\">Yang pertama baca Qur'an dan maknanya</p>\n<p style=\"text-align: center;\">Yang kedua sholat malam dirikanlah</p>\n<p style=\"text-align: center;\">Yang ketiga berkumpullah dengan orang sholeh</p>\n<p style=\"text-align: center;\">Yang keempat perbanyaklah berpuasa</p>\n<p style=\"text-align: center;\">Yang kelima dzikir malam perbanyaklah</p>\n<p style=\"text-align: center;\">&nbsp;</p>\n<p style=\"text-align: center;\">Salahsatunya siapa bisa menjalani</p>\n<p style=\"text-align: center;\">Moga-moga Gusti Allah mencukupi</p>" },
-    {
-      "id": 3,
-      "name_category": "Hanan Attaki",
-      "title": "Lapang Dada",
-      "image": "https://1.bp.blogspot.com/-HxYE662vYyY/XSKrn1Km7dI/AAAAAAACcPc/9lR7W3zPeW0P5Wk12D33pG6o81UkTOR8gCLcBGAs/s1600/Hanan%2BAttaki%2BUHA.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/lapang_dada.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    },
-    {
-      "id": 4,
-      "name_category": "Ammi Nur Bait",
-      "title": "Cambuk Untuk Kita Semua",
-      "image": "https://m.media-amazon.com/images/I/41sBIiTY2ZS._SL500_.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/cambuk.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Adi Hidayat",
-      "title": "Selalu Tenang karena ada Allah",
-      "image": "https://i0.wp.com/www.hops.id/wp-content/uploads/2021/06/ustadz-adi-hidayat-cov.jpg",
-      "link_mp3": "https://aliendro.id/uploads/demo/mp3onoff/tenang.mp3",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Mr. Kim",
-      "title": "Source Code Mp3 Player",
-      "image": "file:///android_asset/image/kim.jpeg",
-      "link_mp3": "mp3/kim.ogg",
-      "lyrics": "<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>\n<p style=\"text-align: center;\">Ku tak pantas berada dalam surga Mu</p>\n<p style=\"text-align: center;\">Namun tak kuasa bila ku masuk ke neraka Mu</p>\n<p style=\"text-align: center;\">Aku datang mengharap belas kasih dari Mu</p>\n<p style=\"text-align: center;\">Kepada siapa aku meminta selain pada Mu</p>\n<p style=\"text-align: center;\">ذُنُوْبيِ مِثْلُ أَعْدَادِ الرِّمَالِ</p>\n<p style=\"text-align: center;\">Dzunuubii mitslu a&rsquo;daadir rimaali</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً يَاذَا الْجَلاَلِ</p>\n<p style=\"text-align: center;\">fa hablii taubatan yaa dzaaljalaali</p>\n<p style=\"text-align: center;\">Engkau pengasih maha pengampun dosa &ndash; dosa</p>\n<p style=\"text-align: center;\">Beriku taubat atas segala kesalahanku</p>\n<p style=\"text-align: center;\">إِلَهِي لَسْتُ لِلْفِرْدَوْسِ أَهْلاً</p>\n<p style=\"text-align: center;\">Ilaahii lastu lil firdausi ahlaan</p>\n<p style=\"text-align: center;\">وَلاَ أَقْوَى عَلىَ نَارِ الْجَحِيْمِ</p>\n<p style=\"text-align: center;\">Wa laa aqwaa &lsquo;alaa naaril jahiimi</p>\n<p style=\"text-align: center;\">فَهَبْ ليِ تَوْبَةً وَاغْفِرْ ذُنُوْبيِ</p>\n<p style=\"text-align: center;\">Fa hablii taubatan waghfir zunuubii</p>\n<p style=\"text-align: center;\">فَإِنَّكَ غَافِرُ الذَّنْبِ الْعَظِيْمِ</p>\n<p style=\"text-align: center;\">Fa innaka ghaafirudzdzambil &lsquo;azhiimi</p>"
-    }
+  "Data": [{
+    "id": 1,
+    "name_category": "TERBARU",
+    "title": "Top topan",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/1.ogg",
+    "lyrics": "<p>wes tak cobo ngampet loro</br>wes tak cobo jogo tresno</br>loro sing tok jalari ora tak rasakke</br>najan aku ngerti koe karo liyane</br><p>cobo koe ono ning posisiku</br>opo koe iso kuat atimu</br>ngrasakke tok larani</br>ning sak bendinoku</br>koe ra ngroso kok malah suloyo</br><p>kulo pun angkat tangan</br>atine pun ajur ajuran</br><p>kulo tak milih pamit</br>ati kulo pun roso sakit</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br><p>cobo koe ono ning posisiku</br>opo koe iso kuat atimu</br><p>ngrasakke tok larani</br>ning sak bendinoku</br>koe ra ngroso kok malah suloyo</br><p>kulo pun angkat tangan</br>atine pun ajur ajuran</br>kulo tak milih pamit</br>ati kulo pun roso sakit</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br><p>ngapurane sayang</br>aku udu wong top topan</br>ora koyo idamanmu</br>sing gampang nrobos atimu</br><p>aku janne ngerti koe ghosting ati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br>tak cobo goblok tetap mencintai</br>sepenuh hati</br>"
+  },
+  {
+    "id": 2,
+    "name_category": "TERBARU",
+    "title": "Joko tingkir",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/2.ogg",
+    "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "TERBARU",
+    "title": "Ojo dibandingke",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/3.ogg",
+    "lyrics": "<p>wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p><p><br />jelas bedo yen dibandingke<br />ora ono sing tak pamerke<br />aku raiso yen kon gawe gawe<br />jujur sak onone</p><p><br />sopo wonge sing ra loro ati<br />wes ngancani tekan semene<br />nanging kabeh ora ono artine<br />raono ajine</p><p><br />wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />tak oyako aku yo ora mampu<br />mung sak kuatku mencintaimu</p><p><br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p><p><br />sopo wonge sing ra loro ati<br />wes ngancani tekan semene<br />nanging kabeh ora ono artine<br />raono ajine</p><p><br />wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />tak oyako aku yo ora mampu<br />mung sak kuatku mencintaimu</p><p><br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu<br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p><p><br />wong ko ngene kok dibanding-bandingke<br />saing-saingke yo mesti kalah<br />tak oyako aku yo ora mampu<br />mung sak kuatku mencintaimu</p><p><br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu<br />ku berharap engkau mengerti<br />di hati ini hanya ada kamu</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "TERBARU",
+    "title": "Teteg ati",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/4.ogg",
+    "lyrics": "<p>ning pungkasan srengenge sore iki<br />atiku iseh roso sumpek<br />nanging sempet mikerke sliramu<br />sing tak tresnani</p><p>&nbsp;</p><p>ning pungkasan rembulan wengi iki<br />atiku iseh milih berjuang bertahan<br />korban ati perasaan kanggo sliramu</p><p>&nbsp;</p><p>koco iki dadi seksi pedihe atiku<br />kowe gawe ati sing tak jogo dadi gelo<br />bola bali kowe sing salah<br />nanging aku sing disalahke e</p><p>&nbsp;</p><p>mas perlu dingerteni<br />tetegke atiku wis koyo ibumu<br />ora tau nggersulo ngadepi polahmu<br />sing nggawe atiku atiku tatu</p><p>&nbsp;</p><p>ning pungkasan srengenge sore iki<br />atiku iseh roso sumpek<br />nanging sempet mikerke sliramu<br />sing tak tresnani</p><p>&nbsp;</p><p>koco iki dadi seksi pedihe atiku<br />kowe gawe ati sing tak jogo dadi gelo<br />bola bali kowe sing salah<br />nanging aku sing disalahke eii</p><p>&nbsp;</p><p>wis rapopo aku sing disalahno<br />tapi elingo cen aku sing lilo<br />dadi payung naliko udane teko</p><p>&nbsp;</p><p>mas perlu dingerteni<br />tetegke atiku wis koyo ibumu<br />ora tau nggersulo ngadepi polahmu<br />sing nggawe atiku atiku tatu</p><p>&nbsp;</p><p>senajan kowe mung nyepelekke<br />nanging ati iki tetep tak kuatke<br />sumpah ati iki<br />setiyoku mung kanggo kowe<br />selawase bebarengan karo kowe<br />selawase ora bakal tak liyakke<br />selawase tetep teteg atine</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "TERBARU",
+    "title": "Full senyum sayang",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/5.ogg",
+    "lyrics": "<p>Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu<br />Jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino raimu peteng dedet<br />Marai sirah mumet ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku semangat berjuang<br />Ojo nuruti gengsimu jelas jelas aku nda mampu</p><p><br />Mbok yo sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing</p><p><br />Rasah pusing-pusing<br />Gek ndang dandan ayo kita healing<br />Ayo kita healing</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "TERBARU",
+    "title": "Dermaga biru",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/6.ogg",
+    "lyrics": "<p>Deraian demi deraian air mata<br />Kupeluk mesra saat kita berpisah<br />Satu yang kupinta, setialah padaku<br />Hanya dirimu kucinta</p><p>Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />Dermaga biru saksi bisu</p><p>Walaupun ku terlanjur sayang<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p>Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p>Lambaian tangan mengiringi langkahku<br />Terasa berat kau melepas diriku<br />Tiada terniat kita untuk berpisah<br />Jangan kau ragu sayangku<br />Dermaga biru saksi bisu</p><p>Walaupun ku terlanjur sayang<br />Meninggalkan dia yang kucinta<br />Namun hatiku terasa berat<br />Pahit manisnya kutelan jua</p><p>Tiada satu yang terindah<br />Selain dirimu yang kusayang<br />Kau pelita hati di sanubariku<br />Pelipur lara suka dan duka</p><p>Sabarlah oh kasihku<br />Pasti ku kan kembali<br />Sabarlah oh kasihku<br />Pasti ku kan kembali</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "TERBARU",
+    "title": "Pecah seribu",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/7.ogg",
+    "lyrics": "<p>Hanya dia<br />Yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p><br />Bimbang, ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin, tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p><p><br />Bimbang, ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin, tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Hanya dia (sek-sek-sek)<br />Dia, dia, dia, dia, dia, dia, dia, hanya dia</p><p><br />Hanya dia (sek-sek-sek)<br />Yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p><br />Entah apa<br />Bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara (ja-ja-ja-ja)</p><p><br />Oh, angin, kabarkan<br />Melati di depan rumahku menantimu</p><p>Bimbang, ragu (he-hew)<br />Sementara malam mulai datang<br />Hasratku ingin bercermin, tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau<br />Patah-patah, tangkaiku patah<br />Aku tak mau</p><p><br />Bimbang, ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin, tapi<br />Cerminku pecah seribu, pecah seribu (ja-ja-ja-ja-ja)</p><p><br />Hanya dia (he-ha-he-ha-he-e)<br />Dia, dia, dia, dia, dia, dia, dia, dia, hanya dia</p><p><br />Hanya dia (he-ha-he-ha-he)<br />Yang ada di antara jantung hati<br />Tempat bermanja (ye-ja), tempatnya rindu (ye-ja)<br />Tempat curahan hati (ja), yang damai</p><p><br />Entah apa (ho-ha-ho-ha-ho-he)<br />Bagaikan kayu basah dimakan api (ho-ho, hajar)<br />Api curiga (ye-ja), api cemburu (ye-ja)<br />Api kerinduan yang membara (iki lho!)</p><p><br />Oh, angin, kabarkan<br />Melati di depan rumahku menantimu</p><p><br />Bimbang, ragu (oo-oo, enak!)<br />Sementara malam mulai datang (ha-he-ha-he)<br />Hasratku ingin bercermin, tapi<br />Cerminku pecah seribu, pecah seribu</p><p><br />Duhai angin, kabarkanlah<br />Melati menanti (hek-hek-hek-hek)<br />Duhai angin, kabarkanlah<br />Melati menanti (ja-ja-ja-ja)</p><p><br />Duhai angin, kabarkanlah<br />Melati menanti (hok-hok-hok-hok)<br />Duhai angin, kabarkanlah<br />Melati menanti (je-je-je-je-ja)</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "TERBARU",
+    "title": "Tiara",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/8.ogg",
+    "lyrics": "<p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p>Tiara, menggamit kenangan zaman persekolahan<br />Tiara, kumimpi kita bersanding atas kayangan<br />Seakan bisa kusentuh peristiwa semalam<br />Di malam pesta engkau bisikkan kata azimat di telinga</p><p>Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p>Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p><p>Kita terpaksa berpisah untuk mencari arah<br />Kita dipukul ombak hidup alam yang nyata<br />Engkau jauh meniti puncak menara gading<br />Yang menjanjikan hidup sempurna<br />Tapi aku hanya tunduk ke bumi, hidup tertekan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p>Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p><p>Jika kau bertemu aku begini<br />Berlumpur tubuh dan keringat membasah bumi<br />Di penjara, terkurung, terhukum<br />Hanya bertemankan sepi<br />Bisakah kau menghargai<br />Cintaku yang suci ini</p><p>Oh Tiara, pedihnya<br />Dapatkah kau merasakan<br />Oh Tiara, pedihnya<br />Dapatkah engkau merasakan</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "TERBARU",
+    "title": "Kok iso yo",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "TERBARU",
+    "title": "Aku bukan jodohnya",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "TERBARU",
+    "title": "Ojo nangis",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/11.ogg",
+    "lyrics": "Mbiyen mbok perjuangke</br>Saiki mbok sia siake</br>Aku sing slalu ono pas kowe loro</br>Pas kowe durung sopo - sopo</br><p>Aku wis jogo ati</br>Kowe dolanan neng buri</br>Kabeh sing tak perjuangke sio sio</br>Kowe milih karo sing luwih mulyo</br><p>Mesakke Atiku</br>Yen tak teruske ro kowe</br>Mending pisah, aku wes ra betah</br>wes kebacut getun</br>kulo nderek langkung</br>Tresno wis rampung</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br><p>kudune ngati ati</br>opo meneh yen bab ati</br>kudu mlaku dewe dewe</br>larane tak tanggung dewe</br><p>Mesakke Atiku</br>Yen tak teruske ro kowe</br>Mending pisah, aku wes ra betah</br>wes kebacut getun</br>kulo nderek langkung</br>Tresno wis rampung</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br><p>Ojo nangis</br>sing uwes yo uwes</br>seng ilang ben ilang</br>cukup aku kelaran laran</br><p>Aku nyerah</br>seng bubrah ben bubrah</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br>kowe bakal ngerti larane</br>naliko di tinggal pass jeru jerune</br>"
+  },
+  {
+    "id": 12,
+    "name_category": "TERBARU",
+    "title": "Lemah teles",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "TERBARU",
+    "title": "Duri duri",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "TERBARU",
+    "title": "Pingal",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/14.ogg",
+    "lyrics": "<p>Piye sek jelaske karo wong tuwo</br>Wes ngelakoni tekan semene</br>Nek akhire bakal bubar pisahan</br>Kowe kegudo tresno karo wong liyo</br><p>Ngelali kowe sing tau ngomong dewe</br>Ngelakoni tresno tekan tuwo</br>Ora ngeliyo mung aku ning atimu</br>Nanging saiki atimu ono wong liyo</br><p>Ibarat esuk mendung, awan aku kudanan</br>Sore mbok larani, bengi tak tangisi</br><p>Mung iso bayangke kabeh kenangan</br>Kowe tak boncengke, turut dalan kekepan kudanan</br>Saiki nyatane kowe malah milih</br>Dikekep wong liyo</br><p>Opo kowe ra kroso abote atiku</br>Kudu kelangan wong sing paling tak tresnani</br>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br><p>Ibarat esuk mendung, awan aku kudanan</br>Sore mbok larani, bengi tak tangisi</br><p>Mung iso bayangke kabeh kenangan</br>Kowe tak boncengke, turut dalan kekepan kudanan</br>Saiki nyatane kowe malah milih</br>Dikekep wong liyo</br><p>Opo kowe ra kroso abote atiku</br>Kudu kelangan wong sing paling tak tresnani</br>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br><p>Ra jenak dolan, ra doyan mangan</br>Nek ra mbok dulang</br>"
+  },
+  {
+    "id": 15,
+    "name_category": "TERBARU",
+    "title": "Bahagia",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "TERBARU",
+    "title": "Salam tresno",
+    "image": "file:///android_asset/image/hapa.jpg",
+    "link_mp3": "mp3/16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "KOPLO ASIK",
+    "title": "Ambyar mak pyar",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "KOPLO ASIK",
+    "title": "Bale pulang",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "KOPLO ASIK",
+    "title": "Wes tatas",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "KOPLO ASIK",
+    "title": "Cidro 2",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "KOPLO ASIK",
+    "title": "Cidro 3",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "KOPLO ASIK",
+    "title": "Satru 2",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "KOPLO ASIK",
+    "title": "Akhire pisahan",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "KOPLO ASIK",
+    "title": "Angin ndalu",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "KOPLO ASIK",
+    "title": "Cerito loro",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "KOPLO ASIK",
+    "title": "Ikhlas",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "KOPLO ASIK",
+    "title": "Jangan ganggu",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "KOPLO ASIK",
+    "title": "Lungamu ninggal kenangan",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "KOPLO ASIK",
+    "title": "Siji wektuku",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "KOPLO ASIK",
+    "title": "Tak warahi carane",
+    "image": "file:///android_asset/image/hapb.jpg",
+    "link_mp3": "mp3/30.ogg",
+    "lyrics": ""
+  }
   ]
 }
