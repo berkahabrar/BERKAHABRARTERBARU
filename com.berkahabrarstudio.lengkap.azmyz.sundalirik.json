@@ -1,0 +1,212 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 3,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "AZMY Z",
+    "image": "file:///android_asset/image/A.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "SUNDA",
+      "image": "file:///android_asset/image/S.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "AZMY Z",
+    "title": "RUNTAH",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/1.ogg",
+    "lyrics": "<p>Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga s&eacute;tan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor?<br />Naha kunaon nu bangor loba nu geulis?<br />Sigana mah ngarasa asa aing had&eacute; rupa, Jang Oman<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir kon&eacute;ng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jaw&eacute;r hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah?<br />G&eacute;bl&eacute;g hirup da&eacute;k jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p><p><br />Panonna alus, irung alus, biwir alus<br />Ditempo ti hareup ti gigir mani mulus<br />Ngan hanjakal pisan kalakuan siga s&eacute;tan<br />Gunta-ganti jalu teu sirikna unggal minggu</p><p><br />Naha kunaun nu geulis loba nu bangor?<br />Naha kunaon nu bangor loba nu geulis?<br />Sigana mah ngarasa asa aing had&eacute; rupa meureun, Jang Oman<br />Bisa payu ka sasaha tungtungna jadi cilaka</p><p><br />Kulit kelir kon&eacute;ng cangkang cau<br />Huntuna bodas tipung tarigu<br />Biwir beureum-beureum jaw&eacute;r hayam<br />Panon coklat kopi susu</p><p><br />Ngan naha atuh beut dimumurah?<br />G&eacute;bl&eacute;g hirup da&eacute;k jadi runtah<br />Ulah bangga bisa gunta-ganti jalu<br />Komo jeung poho dibaju</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "AZMY Z",
+    "title": "JOKO TINGKIR",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/2.ogg",
+    "lyrics": "<p>Joko Tingkir nginum dawet<br />Tong dipikir ngajieun rieut<br />Nyandak jamur di si Bah Wage<br />Ulah nyerah kudu tetep gawe</p><p>Ka Kuningan meuli tape ketan<br />Ieu carita budak rantauan<br />Cabe rawit lada pisan<br />Neang duit kangge masa depan</p><p>Daun kenikir daun belimbing <br />Jangan berpikir aku kan berpaling <br />Makan jamur makan pepaya<br />Aku jujur kamu ga percaya</p><p><br />Rokok klobot ning ngisor wit melinjo<br />Paling abot ninggal anak bojo<br />Tuku donat ning Kalimantan <br />Tetep semangat kanggo masa depan</p>"
+  },
+  {
+    "id": 3,
+    "name_category": "AZMY Z",
+    "title": "MIDUAN CINTA",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/3.ogg",
+    "lyrics": "<p>Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit l&eacute;nglang ngabol&eacute;ang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan.</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana (kamana)<br />Naha cintana bet lila<br />Kapakan duka teuing kamana (kapakan-kapakan, kamana).</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Itu langlayangan nu pegat kapakan<br />Di langit l&eacute;nglang ngabol&eacute;ang<br />Asih nu munggaran naha teu kapakan<br />Diri ngalayeung teu aya pamundangan.</p><p><br />Naha asihna bet sirna<br />Deudeuhna lumpat kamana (kamana)<br />Naha cintana bet lila<br />Kapakan duka teuing kamana (kapakan-kapakan, kamana).</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana dimana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p><p><br />Salira ayeuna ayana di mana<br />Akang leungiteun salira<br />Salira ayeuna ayana di mana<br />Ku teu sangka salira midua cinta.</p>"
+  },
+  {
+    "id": 4,
+    "name_category": "AZMY Z",
+    "title": "MAWAR BODAS",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/4.ogg",
+    "lyrics": "<p>Mapay jalan satapak<br />Ngajugjug ka hiji lembur<br />Henteu malir&eacute; kacap&eacute;<br />Sabab aya nu dit&eacute;ang</p><p><br />Hujan angin, dor-dar gelap<br />Taya pisan keur ngiuhan<br />Sanajan awak rancucud<br />Bet asa karunya teuing</p><p><br />Pajar cenah asal nepi<br />Ka tempat anu dituju<br />R&eacute;k ngalongok mawar bodas<br />Kembang nu jadi impian</p><p><br />Sugan t&eacute;a moal gagal<br />Kembang t&eacute;h aya nu boga<br />Balik g&eacute; jiga hor&eacute;am<br />Leumpangna jiga ngalayang</p><p><br />Teu disawang ti anggalna<br />Teu dipikir ti tadina<br />Anjeun ulah nyeuri hat&eacute;<br />Lantaran tacan pasini<br />N&eacute;angan pipanyakiteun<br />N&eacute;angan pipanyakiteun</p><p><br />Mapay jalan satapak<br />Ngajugjug ka hiji lembur<br />Henteu malir&eacute; kacap&eacute;<br />Sabab aya nu diteang</p><p><br />Hujan angin, dor-dar gelap<br />Taya pisan keur ngiuhan<br />Sanajan awak rancucud<br />Bet asa karunya teuing</p><p><br />Pajar cenah asal nepi<br />Ka tempat anu dituju<br />R&eacute;k ngalongok mawar bodas<br />Kembang nu jadi impian</p><p><br />Sugan t&eacute;a moal gagal<br />Kembang t&eacute;h aya nu boga<br />Balik g&eacute; jiga hor&eacute;am<br />Leumpangna jiga ngalayang</p><p><br />Teu disawang ti anggalna<br />Teu dipikir ti tadina<br />Anjeun ulah nyeuri hat&eacute;<br />Lantaran tacan pasini<br />N&eacute;angan pipanyakiteun<br />N&eacute;angan pipanyakiteun</p><p><br />Teu disawang ti anggalna<br />Teu dipikir ti tadina<br />Anjeun ulah nyeuri hat&eacute;<br />Lantaran tacan pasini<br />N&eacute;angan pipanyakiteun<br />N&eacute;angan pipanyakiteun</p>"
+  },
+  {
+    "id": 5,
+    "name_category": "AZMY Z",
+    "title": "MANUK DADALI",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/5.ogg",
+    "lyrics": "<p>Mesat ngapung luhur jauh di awang-awang<br />Meberkeun jangjangna bangun taya karingrang<br />Sukuna ranggaos reujeung pamatukna ngeluk<br />Ngapak mega bari hiberna tarik nyuruwuk</p><p><br />Saha anu bisa nyusul kana tandangna<br />Gandang jeung pertentang taya bandingannana<br />Dipikagimir dipikaserab ku sasama<br />Taya karempan kasieun</p><p><br />Manuk Dadali manuk panggagahna<br />Perlambang sakti Indonesia Jaya<br />Manuk Dadali pangkakon carana<br />Resep ngahiji rukun sakabehna</p><p><br />Hirup sauyunan tara pahiri-hiri<br />Silih pikanyaah teu inggis bela pati<br />Manuk dadali ngandung siloka sinatria<br />Keur sakumna Bangsa di Nagara Indonesia</p>"
+  },
+  {
+    "id": 6,
+    "name_category": "AZMY Z",
+    "title": "URANG SUNDA",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/6.ogg",
+    "lyrics": "<p>Indonesia adatna rupa rupa<br />Pokona mah luar biasa<br />Indonesia budayana beda beda<br />Ngajadi bhineka tunggal ika</p><p><br />Sunda salah sahijina<br />Bakal jadi jawara</p><p><br />Urang sunda (Wani ngadu)<br />Geutih sunda (Wani diadu)<br />Hade tata hade basa hade rupa<br />Urang sunda</p><p><br />Urang sunda (Kudu maju)<br />Geutih sunda (Tong jadi babu)<br />Ulah daek gawe tapi dicekek<br />Dijajah kudunungan</p>"
+  },
+  {
+    "id": 7,
+    "name_category": "AZMY Z",
+    "title": "RANGKULANA SALIRA",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/7.ogg",
+    "lyrics": "<p>Rangkulan salira<br />Masih karaos pagehna<br />Hese lesotna</p><p>Suganteh tangkeupna anjeun<br />Nu pinuh rasa ka kangen<br />Horeng aya asih sapengkeureun</p><p>Boro tos bagja<br />Ieu diri mikacinta<br />Sagambleungna</p><p>Sakur nu dipikahoyong<br />Rarasaan ditedunan</p><p>Anjeun mengkolkeun asih ka deungeun<br />Ikhlas memang ikhlas<br />Ridho teu ngajodo<br />Naha ieu hate<br />Emut wae ka salira</p>"
+  },
+  {
+    "id": 8,
+    "name_category": "AZMY Z",
+    "title": "TALAK TILU",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/8.ogg",
+    "lyrics": "<p>Aduh alah ieu t&eacute;ga t&eacute;h teuing</p><p><br />Mani nyeri, nyeri nyeri teuing<br />Ceurik ati ditamb&eacute;lakeun<br />Henteu beunang ku disabaran<br />Aduh, alah ieuh, t&eacute;ga t&eacute;h teuing</p><p><br />Indit sore, kurunyung geus subuh<br />Abdi tunduh, mukakeun tulak<br />Batin nyeri, ceurik sorangan<br />Aduh, alah ieuh, t&eacute;ga t&eacute;h teuing</p><p><br />Nyeri nyeri moal benang diubaran<br />Kajeun tutumpuran, pa&eacute;h g&eacute; teu panasaran<br />Meungpeung ngora k&eacute;n&eacute;h, meungpeung urang can batian<br />P&eacute;k geura serahkeun talak tilu sakalian</p><p><br />Nyeri nyeri moal benang diubaran<br />Kajeun tutumpuran, pa&eacute;h g&eacute; teu panasaran<br />Meungpeung ngora k&eacute;n&eacute;h, meungpeung urang can batian<br />P&eacute;k geura serahkeun talak tilu sakalian</p><p><br />Henteu butuh lalaki curaling<br />Boga rasa sok iyeuh aing<br />Henteu robah, teu &eacute;ling-&eacute;ling<br />Aduh, alah ieuh, t&eacute;ga t&eacute;h teuing</p><p><br />Mani nyeri, nyeri nyeri teuing<br />Ceurik ati ditamb&eacute;lakeun<br />Henteu beunang ku disabaran<br />Aduh, alah ieuh, t&eacute;ga t&eacute;h teuing</p><p><br />Indit sore, kurunyung geus subuh<br />Abdi tunduh, mukakeun tulak<br />Batin nyeri, ceurik sorangan<br />Aduh, alah ieuh, t&eacute;ga t&eacute;h teuing</p><p><br />Nyeri nyeri moal benang diubaran<br />Kajeun tutumpuran, pa&eacute;h g&eacute; teu panasaran<br />Meungpeung ngora k&eacute;n&eacute;h, meungpeung urang can batian<br />P&eacute;k geura serahkeun talak tilu sakalian</p>"
+  },
+  {
+    "id": 9,
+    "name_category": "AZMY Z",
+    "title": "PECAH SERIBU",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/9.ogg",
+    "lyrics": "<p>Bimbang ragu<br />Sementara malam mulai datang<br />Hasratku ingin bercermin<br />Tapi cerminku pecah seribu<br />Pecah seribu</p><p>&nbsp;</p><p>Ibarat bunga<br />Aku takut banyak kumbang yang hinggap<br />Aku tak mau patah, patah tangkaiku patah<br />Aku tak mau</p><p>&nbsp;</p><p>Hanya dia<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p>&nbsp;</p><p>Entah apa bagaikan kayu basah di makan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara<br />Oh angin kabarkan<br />Melati di depan rumahku menantimu</p><p>&nbsp;</p><p>Hanya dia<br />Hanya dia yang ada di antara jantung hati<br />Tempat bermanja, tempatnya rindu<br />Tempat curahan hati yang damai</p><p>&nbsp;</p><p>Entah apa bagaikan kayu basah dimakan api<br />Api curiga, api cemburu<br />Api kerinduan yang membara<br />Oh angin kabarkan<br />Melati di depan rumahku menantimu</p>"
+  },
+  {
+    "id": 10,
+    "name_category": "AZMY Z",
+    "title": "ALIM BOBOGIHAN",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "AZMY Z",
+    "title": "BANGBUNG HIDEUNG",
+    "image": "file:///android_asset/image/A.jpg",
+    "link_mp3": "mp3/11.ogg",
+    "lyrics": "<p>Bangbung Hideung bara-bara teuing diri<br />Leuheung bari diangge ka Sukagalih<br />Situ pinuh balong jero<br />Bebendon sareng bebendu unggal ti</p><p>Salira juag awi teh pangajul buah lantaran kitu<br />Sora bedil luhur mega paripaos<br />Teu paya lepat saeutik<br />Diri abi kagamparan</p><p>Eeh banondari<br />Nu geulis kawanti-wanti<br />Nu endah na malih warna puputon kembang kadaton<br />Jungjunan</p><p>Lamun teu kauntung tipung<br />Katambang beas laksana kapiduriat<br />Matak paeh ngabale bangke<br />Matak edan leuleuweungan<br />Matak paeh ngabale bangke<br />Matak edan leuleuweungan</p><p>Aduh alah iyeung da leuleuweungan<br />Aso-aso lali wao-wao waeng<br />Aso-aso lali wao-wao waeng</p><p>Aya ucap paribasa<br />Sarung bantal mungguh cipruk<br />Seep saputangan hiji<br />Ceurik balas ku nalangsa<br />Abdi nalangsa</p><p>Nguping hujan tengah wengi<br />Diimah keueung sorangan<br />Nguping hujan tengah wengi<br />Diimah keueung sorangan</p><p>Nyagigir asa gigireun<br />Nangkarak asa luhureun<br />Nyagigir asa gigireun<br />Nangkarak asa luhureun<br />Aduh alah iyeung asa luhureun</p><p>Aso-aso lali wao-wao waeng<br />Aso-aso lali wao-wao waeng</p><p>Jung nangtung asa lalanjung<br />Gek diuk asa tiguling<br />Leumpang asa da ngalong kewang.</p>"
+  },
+  {
+    "id": 12,
+    "name_category": "SUNDA",
+    "title": "BEBENDE",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/12.ogg",
+    "lyrics": "<p>Duh bebende bebende anu ayeuna<br />Matak nineung matak nineung sagalana<br />Mun keur ambeuk matak nineung camberutna<br />Mun keur bageur matak nineung ku nyaahna</p><p><br />Duh bebende bebende anu ayeuna<br />Matak nineung matak nineung sagalana<br />Mun keur seuri matak nineung ku lucuna<br />Mun keur ceurik nineung ku goreng patutna</p><p><br />Reff<br />Reseup ku goreng adatna<br />Sok mawa kareup sorangan<br />Reseup ku sae adatna<br />Mun gajihan loba pisan pamentana</p><p><br />Duh bebende bebende anu ayeuna<br />Matak nineung matak nineung sagalana<br />Mun keur imut matak nyeblak karasana<br />Mun keur sono remen sok ngajak bobona</p>"
+  },
+  {
+    "id": 13,
+    "name_category": "SUNDA",
+    "title": "BELEUD",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "SUNDA",
+    "title": "DAUN HIRIS",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/14.ogg",
+    "lyrics": "<p>Teteup deudeuh..<br />Moal burung dipisono<br />Hate kuring..<br />Moal beunang di bobodo</p><p>Daun hiris <br />Saksina nu ngemplok hejo<br />Duh panutan..<br />Diantosan tibareto</p><p><br />Daun hiris...<br />Kembangna umyang karoneng<br />Kaendahan..<br />Ayana disisi empang</p><p><br />Panutan imut..<br />Basa kuring anteng nyawang<br />Duh... waktu mitineung..<br />Hate.. jadi honcewang</p><p><br />Ngabibita...<br />Daun hiris sisi gawir<br />Aduh ampun..<br />Takdir teu beunang dipungkir</p><p><br />Beurang peuting.. <br />Abdi teu weleh ihtiar<br />Geuningan sulaya...<br />Panutan tambelar</p><p><br />Buktina....<br />Ngaraheutkeun sapanjangna<br />Pupuasan..<br />Naon pilandongeunana</p><p><br />Berang peuting..<br />Badanteh asa tunggara<br />Aduh ampun..<br />Seueur pisan gogodana</p>"
+  },
+  {
+    "id": 15,
+    "name_category": "SUNDA",
+    "title": "DUA LALAKI",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/15.ogg",
+    "lyrics": "<p>Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Hor&eacute;ng micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun lalaki, akang lalaki<br />Pada mikaharep miboga dirina<br />Kembang nu jadi impian<br />Tos lami mapa&eacute;s ati<br />Duh&hellip; diri micinta</p><p><br />Pasti sarua miboga cinta<br />Pada mikahayang tur metik atina<br />Iraha bakal laksana<br />R&eacute;k metik kembang katr&eacute;sna<br />Nu jadi ceungceuman</p><p><br />Reff:<br />Diri nandangan kasiksa<br />Gering pikir ngalanglayung<br />Hor&eacute;ng micinta nu samar<br />Asa teu walakaya</p><p><br />Anjeun nu jadi rebutan<br />Antara dua lalaki<br />Nu sami-sami micinta<br />Ka diri salira</p><p><br />Rasana diri geus teu daya<br />Akang micinta anjeuna<br />Harepan ngan ukur harepan<br />Nu ayeuna ngan tinggal lamunan</p>"
+  },
+  {
+    "id": 16,
+    "name_category": "SUNDA",
+    "title": "JANG",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "SUNDA",
+    "title": "KAPALANG NYAH",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "SUNDA",
+    "title": "MOJANG PARIYANGAN",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/18.ogg",
+    "lyrics": "<p>Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Angkat ngagandeuang<br />Bangun taya karingrang<br />Nganggo sinjang dilamban<br />Mojang Priangan</p><p><br />Umat-imut, lucu<br />Sura-seuri, nyari<br />Larak-lirik, keupat<br />Mojang Priangan</p><p><br />Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Mojang anu donto<br />Matak sono nu nempo<br />Mun tepung sono ka<br />Mojang Priangan</p><p><br />Gareulis, maranis<br />Disinjang, lalenjang<br />&Eacute;stu surup mun leumpang<br />Mojang Priangan</p><p><br />Di gigirna g&eacute; lenggik<br />Ti hareupna g&eacute; sieup<br />Di tukangna g&eacute; lenjang<br />Mojang Priangan</p><p><br />Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Diraksukan kabaya<br />Nambihan cahayana<br />Dangdosan sederhana<br />Mojang Priangan</p><p><br />Pami &eacute;mut sok nyari<br />Matak resep ningali<br />Kurindakna kataji<br />Mojang Priangan</p>"
+  },
+  {
+    "id": 19,
+    "name_category": "SUNDA",
+    "title": "PLESIRAN",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "SUNDA",
+    "title": "PLESIRAN BAJIDOR",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "SUNDA",
+    "title": "PURUNYUS",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "SUNDA",
+    "title": "RAGAJI BEUIS",
+    "image": "file:///android_asset/image/B.jpg",
+    "link_mp3": "mp3/22.ogg",
+    "lyrics": ""
+  }
+  ]
+}
