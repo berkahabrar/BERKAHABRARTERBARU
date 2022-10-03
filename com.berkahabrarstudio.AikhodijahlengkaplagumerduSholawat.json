@@ -1,0 +1,284 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "SHOLAWAT A",
+    "image": "file:///android_asset/image/AA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "SHOLAWAT B",
+      "image": "file:///android_asset/image/AB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "SHOLAWAT A",
+    "title": "YA TARIM",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO1.ogg",
+    "lyrics": "<p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />2x</p><p><br />Baldatun al-Auliya<br />Baldatun al-Auliya<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Bijahi Ba &lsquo;Alawi<br />Bijahi Ba &lsquo;Alawi<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p>Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />2x</p><p><br />Habibunal kariim<br />Habibunal kariim<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Saqqofuna waliyy<br />Saqqofuna waliyy<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Al-Muhdlor wal &lsquo;Aydarus<br />Al-Muhdlor wal &lsquo;Aydarus<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Al-Haddad wal &lsquo;Aththos<br />Al-Haddad wal &lsquo;Aththos<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Wa jamii&rsquo;i alwalii (Dan semua para wali)<br />Wa jamii&rsquo;i alwalii (Dan semua para wali)<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..</p><p><br />Ya Tarim Ya Tarim<br />Ya Tarim Ya Tarim<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />Syai&rsquo; lillah.. Syai&rsquo; lillah..<br />2x</p>"
+  },
+  {
+    "id": 2,
+    "name_category": "SHOLAWAT A",
+    "title": "SHOLAWAT QURANIYAH",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO2.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 3,
+    "name_category": "SHOLAWAT A",
+    "title": "YA SAYYIDI",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO3.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 4,
+    "name_category": "SHOLAWAT A",
+    "title": "SHALLALLAHU ALA YASIN",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO4.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 5,
+    "name_category": "SHOLAWAT A",
+    "title": "YA MAULANA",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO5.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 6,
+    "name_category": "SHOLAWAT A",
+    "title": "NASAMATU HAWAK",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO6.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 7,
+    "name_category": "SHOLAWAT A",
+    "title": "Allahul Kaafi",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO7.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 8,
+    "name_category": "SHOLAWAT A",
+    "title": "Kullul Qulub",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO8.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 9,
+    "name_category": "SHOLAWAT A",
+    "title": "Ya Ayyuhan Nabi",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO9.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 10,
+    "name_category": "SHOLAWAT A",
+    "title": "Yasir Lana",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO10.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 11,
+    "name_category": "SHOLAWAT A",
+    "title": "Sa'dunna Fiddunya",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO11.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 12,
+    "name_category": "SHOLAWAT A",
+    "title": "Syaikhona",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO12.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 13,
+    "name_category": "SHOLAWAT A",
+    "title": "Abki Ala Syam",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO13.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 14,
+    "name_category": "SHOLAWAT A",
+    "title": "Huwannur",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO14.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 15,
+    "name_category": "SHOLAWAT A",
+    "title": "Man Anna",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO15.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 16,
+    "name_category": "SHOLAWAT A",
+    "title": "Pejah Husnul Khotimah",
+    "image": "file:///android_asset/image/AA.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO16.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 17,
+    "name_category": "SHOLAWAT B",
+    "title": "Adfaita",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO17.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 18,
+    "name_category": "SHOLAWAT B",
+    "title": "Ummi Tsuma Ummi",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO18.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 19,
+    "name_category": "SHOLAWAT B",
+    "title": "Lawkana Bainanal Habib",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO19.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 20,
+    "name_category": "SHOLAWAT B",
+    "title": "Innal Habibal Musthofa",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO20.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 21,
+    "name_category": "SHOLAWAT B",
+    "title": "Thola al Badru Alaina",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO21.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 22,
+    "name_category": "SHOLAWAT B",
+    "title": "Laa ilaha illa Allaah",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO22.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 23,
+    "name_category": "SHOLAWAT B",
+    "title": "Busyro Lana",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO23.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 24,
+    "name_category": "SHOLAWAT B",
+    "title": "Allahumma Shollialal Musthofa",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO24.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 25,
+    "name_category": "SHOLAWAT B",
+    "title": "Istighfar",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO25.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 26,
+    "name_category": "SHOLAWAT B",
+    "title": "Deen Assalam",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO26.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 27,
+    "name_category": "SHOLAWAT B",
+    "title": "Ya Badrotim",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO27.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 28,
+    "name_category": "SHOLAWAT B",
+    "title": "Isyfalana",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO28.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 29,
+    "name_category": "SHOLAWAT B",
+    "title": "Shooq",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO29.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 30,
+    "name_category": "SHOLAWAT B",
+    "title": "Wakti Sahar",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO30.ogg",
+    "lyrics": ""
+  },
+  {
+    "id": 31,
+    "name_category": "SHOLAWAT B",
+    "title": "Ya Ayyuhan Nabi",
+    "image": "file:///android_asset/image/AB.jpg",
+    "link_mp3": "mp3/AIDUKHOSHO31.ogg",
+    "lyrics": ""
+  }
+  ]
+}
