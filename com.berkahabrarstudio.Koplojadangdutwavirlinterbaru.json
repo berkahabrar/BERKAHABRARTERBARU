@@ -1,0 +1,300 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"",
+      "main_ads_banner": "",
+      "main_ads_intertitial":"",
+      "main_ads_rewards":"",
+      "backup_ads_banner":"qwert12345",
+      "backup_ads_intertitial":"qwert12345",
+      "backup_ads_rewards":"",
+      "interval_intertitial": 2,
+      "initialize_sdk":"null",
+      "initialize_sdk_backup_ads":"null",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+  "Categories": [{
+    "id": 1,
+    "name_category": "DANGDUT ANYAR",
+    "image": "file:///android_asset/image/RALA.jpg"
+  },
+    {
+      "id": 2,
+      "name_category": "DANGDUT KOPLO",
+      "image": "file:///android_asset/image/RALB.jpg"
+    }
+  ],
+  "Data": [{
+    "id": 1,
+    "name_category": "DANGDUT ANYAR",
+    "title": "TETEG ATI",
+    "image": "file:///android_asset/image/RALA.jpg",
+    "link_mp3": "mp3/DANGPLORAL1.ogg",
+    "lyrics": "<p>Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu</p><p><br />Sing tak tresnani<br />Ning pungkasan rembulan wengi iki<br />Atiku iseh milih berjuang bertahan<br />Korban ati perasaan kanggo sliramu<br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah<br />Nanging aku sing disalahke e</p><p><br />Mas perlu dingerteni<br />Teteg ke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu</p><p><br />Ning pungkasan srengenge sore iki<br />Atiku iseh roso sumpek<br />Nanging sempet mikerke sliramu<br />Sing tak tresnani</p><p><br />Koco iki dadi seksi pedihe atiku<br />Kowe gawe ati sing tak jogo dadi gelo<br />Bola bali kowe sing salah</p><p>Nanging aku sing disalahke eii<br />Wis rapopo aku sing disalahno<br />Tapi elingo cen aku sing lilo<br />Dadi payung naliko udane teko<br />Mas perlu dingerteni</p><p><br />Tetegke atiku wis koyo ibumu<br />Ora tau nggersulo ngadepi polahmu<br />Sing nggawe atiku atiku tatu<br />Senajan kowe mung nyepelekke<br />Nanging ati iki tetep tak kuatke<br />Sumpah ati iki</p><p><br />Setiyoku mung kanggo kowe<br />Selawase bebarengan karo kowe<br />Selawase ora bakal tak liyakke<br />Selawase tetept eteg atine</p>"
+  },
+    {
+      "id": 2,
+      "name_category": "DANGDUT ANYAR",
+      "title": "KESUCIAN ATI",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL2.ogg",
+      "lyrics": "<p>Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki?</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Isun welas nyang riko<br />Tulus teko ati nisun<br />Lan isun sing ngarepno<br />Paran baen iku wujude<br />Tekan riko</p><p><br />Ha-ah-ah</p><p><br />Opo kudu sun sujud lan nangisi<br />Welas asih iki?</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Ojo dipadakno isun ambi wong liyo<br />Mergo isun sing sempurno<br />Ojo dibedakno welas asih isun<br />Ambi gemerlape dunyo<br />Kesucian ati</p><p><br />Kesucian ati</p>"
+    },
+    {
+      "id": 3,
+      "name_category": "DANGDUT ANYAR",
+      "title": "OJO DIBANDINGKE",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL3.ogg",
+      "lyrics": "<p>Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyak'o aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti di hati ini<br />Hanya ada kamu</p><p><br />Jelas bedo yen dibandingke<br />Ora ono sing tak pamerke<br />Aku ra iso yen kon gawe-gawe<br />Jujur sak onone</p><p><br />Sopo wonge sing ra loro ati<br />Wis ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyak'o aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti di hati ini<br />Hanya ada kamu</p><p><br />Sopo wonge sing ra loro ati<br />Wis ngancani tekan semene<br />Nanging kabeh ora ono artine<br />Ra ono ajine</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyak'o aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Wong ko ngene kok dibanding-bandingke<br />Saing-saingke yo mesti kalah<br />Tak oyak'o aku yo ora mampu<br />Mung sak kuatku mencintaimu</p><p><br />Ku berharap engkau mengerti di hati ini<br />Hanya ada kamu</p><p><br />Ku berharap engkau mengerti di hati ini<br />Hanya ada kamu</p>"
+    },
+    {
+      "id": 4,
+      "name_category": "DANGDUT ANYAR",
+      "title": "RASAH DADI PELANGI",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL4.ogg",
+      "lyrics": "<p>Rasah dadi pelangi dinggo matane dek'e<br />Cukup pisan wingi kowe hiasi atine<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Ngel, angel, angel, dikandani pancen angel<br />Njak ngono kuwi nek wis kadung tresno tetep ngeyel<br />Hatimu terbutakan oleh cinta palsunya<br />Rela rekasa, yang penting dia tetap bahagia</p><p><br />Rasah mencintai, menyayangi wong sing picek<br />Perjuanganmu ra tau dianggep dadi nyesek<br />Dia hanya bercanda, harusnya kau tertawa<br />Bukannya jatuh cinta, akhirnya kau terluka</p><p><br />Rasah dadi pelangi dinggo matane dek'e<br />Cukup pisan wingi kowe hiasi atine<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Suatu saat kowe bakal dadi ngerti<br />Koncomu ra pernah ngapusi nek kowe dilarani<br />Sakjane ora trimo kowe digawe loro<br />Saranku, diloske wae, OTW golek liyo</p><p><br />Mbok uwis stop leh getuni kabeh iki<br />Teko tenang, koncomu ra bakal neng endi-endi<br />Janji bakal ngancani, tekane kowe mari<br />Anggep wae mung mimpi, sesok ra dibaleni</p><p><br />Rasah dadi pelangi dinggo matane dek'e (pelangi nggo dek'e)<br />Cukup pisan wingi kowe hiasi atine (hiasi atine)<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu (konco ning sandingmu)<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p><p><br />Rasah dadi pelangi dinggo matane dek'e (pelangi nggo dek'e)<br />Cukup pisan wingi kowe hiasi atine (hiasi atine)<br />Tetepo pringas-pringis senajan mumet ndase<br />Bahagia ora kudu tentang cinta wae</p><p><br />Kowe susah, mesti ono konco ning sandingmu (konco ning sandingmu)<br />Curhato, nangiso, diloske wae atimu<br />Ketika semua masalahmu terasa abot<br />Lepas dan ikhlaskan, jalan terbaik hanya pedot</p>"
+    },
+    {
+      "id": 5,
+      "name_category": "DANGDUT ANYAR",
+      "title": "FULL SENYUM SAYANG",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL5.ogg",
+      "lyrics": "<p>Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku soyo tambah sayang, (ha-ha-ha)<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing, ho!</p><p><br />Bukane aku ora peduli<br />Tapi pancen kodemu angel dipahami<br />Ngomongo wae kabeh opo anane<br />Ben podo penake</p><p><br />Tak upayake kabeh penjalukmu<br />Tapi tulung, ngerteni kahananku<br />Aku dudu turunan balungan gede<br />Sing turah warisane</p><p><br />Saben dino, raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku semangat berjuang, (ha-ha-ha)<br />Ojo nuruti gengsimu<br />Jelas-jelas, aku ndak mampu</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku soyo tambah sayang, (ha-ha-ha)<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Ha-ha-ha<br />Ha-ha-ha</p><p><br />Saben dino, raimu peteng dedet<br />Marai sirah mumet, ati tambah ruwet<br />Kabeh ra kedaden<br />Yen diladeni iso geger geden</p><p><br />Mbok yo, sing full senyum sayang, (ha-ha-ha)<br />Ben aku semangat berjuang, (ha-ha-ha)<br />Ojo nuruti gengsimu<br />Jelas-jelas, aku ndak mampu</p><p><br />Oh, mbok yo, sing full senyum sayang<br />Ben aku soyo tambah sayang<br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing</p><p><br />Rasah pusing-pusing<br />Gek ndang dandan, ayo kita healing<br />Ayo kita healing</p>"
+    },
+    {
+      "id": 6,
+      "name_category": "DANGDUT ANYAR",
+      "title": "JOKO TINGKIR",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL6.ogg",
+      "lyrics": "<p>Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p><p><br />Joko Tingkir ngombe dawet<br />Jo dipikir, marai mumet<br />Ngopek jamur nggone Mbah Wage<br />Pantang mundur, terus nyambut gawe<br />Pantang mundur, terus nyambut gawe</p><p><br />Ning Kediri tuku ketan<br />Iki crito anak rantauan<br />Lombok rawit, pedes tenan<br />Golek duit kanggo masa depan<br />Golek duit kanggo masa depan</p><p><br />Rokok klobot ning ngisor wit mlinjo<br />Paling abot ninggal anak-bojo<br />Tuku donat ning Kalimantan<br />Tetep s'mangat kanggo masa depan<br />Tetep s'mangat kanggo masa depan</p><p><br />Godong kenikir, godong koro<br />Jo dipikir aku arep ngeliyo<br />Mangan jamur, mangan koro<br />Aku jujur, kowe ra percoyo<br />Aku jujur, kowe ra percoyo</p>"
+    },
+    {
+      "id": 7,
+      "name_category": "DANGDUT ANYAR",
+      "title": "SATRU 2",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL7.ogg",
+      "lyrics": "<p>Unine batin dungoku<br />Ra luput ko jenengmu<br />Aku ngedem-ngedem atimu<br />Bakoh mempertahankanmu</p><p><br />Gusti, kulo pun manut dalane<br />Mung Jenengan sing ngatur critane<br />Sing jelas, aku mikir ke depane<br />Opo bakal hubungan satru sak teruse?</p><p><br />Tulung percoyo, aku sayang awakmu<br />Buktine sampeyan nglirik liyane<br />Sumpah, ra koyo sing mbok pikir selama iki<br />Mas, iso ku meneng, ngajeni awakmu</p><p><br />Sepurane yen pancen salah<br />Sepurane yen aku neng uripmu mung masalah<br />Rangkulen aku<br />Iki nggur mung salah pahamku</p><p><br />Ha-ah-oh-hm<br />Satru hubungan mung salah pahammu<br />Sampean kudu ngerteni, aku cemburu</p><p><br />Gusti, kulo pun manut dalane<br />Mung Jenengan sing ngatur critane<br />Ho-wo-oh, sing jelas, aku mikir ke depane<br />Opo bakal hubungan satru sak teruse?</p><p><br />Tulung percoyo, aku sayang awakmu<br />Buktine sampeyan nglirik liyane<br />Sumpah, ra koyo sing mbok pikir selama iki<br />Mas, iso ku meneng, ngejeni awakmu</p><p><br />Sepurane yen pancen salah<br />Sepurane yen aku neng uripmu mung masalah<br />Rangkulen aku<br />Iki nggur mung salah pahamku</p><p><br />Unine batin dungoku<br />Ra luput ko jenengmu</p>"
+    },
+    {
+      "id": 8,
+      "name_category": "DANGDUT ANYAR",
+      "title": "TOP TOPAN",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL8.ogg",
+      "lyrics": "<p>Kulo pun angkat tangan<br />Atine pun ajur-ajuran<br />Kulo tak milih pamit<br />Ati kulo pun roso sakit</p><p><br />Wes tak cobo ngempet loro<br />Wes tak cobo njogo tresno<br />Loro sing tok jalari ora tak rasakke<br />Najan aku ngerti koe karo liyane</p><p><br />Cobo koe ono ning posisiku<br />Opo koe isoh kuat atimu<br />Ngrasakke tok larani<br />Ning sak bendinoku<br />Koe ra ngroso kok malah suloyo</p><p><br />Kulo pun angkat tangan<br />Atine pun ajur-ajuran<br />Kulo tak milih pamit<br />Ati kulo pun roso sakit</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Kulo pun angkat tangan<br />Atine pun ajur-ajuran<br />Kulo tak milih pamit<br />Ati kulo pun roso sakit</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Ngapurane sayang<br />Aku udu wong top-topan<br />Ora koyo idamanmu<br />Sing gampang nrobos atimu</p><p><br />Aku jane ngerti koe ghosting ati<br />Tak cobo goblok tetap mencintai<br />Sepenuh hati</p><p><br />Tak cobo goblok tetap mencintai<br />Sepenuh hati<br />Sepenuh hati</p>"
+    },
+    {
+      "id": 9,
+      "name_category": "DANGDUT ANYAR",
+      "title": "MADIUN NGAWI",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL9.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 10,
+      "name_category": "DANGDUT ANYAR",
+      "title": "CIDRO 3",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL10.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 11,
+      "name_category": "DANGDUT ANYAR",
+      "title": "LEMAH TELES",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL11.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 12,
+      "name_category": "DANGDUT ANYAR",
+      "title": "SATRU",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL12.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 13,
+      "name_category": "DANGDUT ANYAR",
+      "title": "ANGEL",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL13.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 14,
+      "name_category": "DANGDUT ANYAR",
+      "title": "SALAH TOMPO",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL14.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 15,
+      "name_category": "DANGDUT ANYAR",
+      "title": "CIDRO 2",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL15.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 16,
+      "name_category": "DANGDUT ANYAR",
+      "title": "CERITO LORO",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL16.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 17,
+      "name_category": "DANGDUT ANYAR",
+      "title": "WES TATAS",
+      "image": "file:///android_asset/image/RALA.jpg",
+      "link_mp3": "mp3/DANGPLORAL17.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 18,
+      "name_category": "DANGDUT KOPLO",
+      "title": "LUNGOO",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL18.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 19,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SALAM TRESNO",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL19.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 20,
+      "name_category": "DANGDUT KOPLO",
+      "title": "AKU RA MUNDUR",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL20.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 21,
+      "name_category": "DANGDUT KOPLO",
+      "title": "MENUNGSO ORA TOTO",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL21.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 22,
+      "name_category": "DANGDUT KOPLO",
+      "title": "ANGIN NDALU",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL22.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 23,
+      "name_category": "DANGDUT KOPLO",
+      "title": "BANYU MOTO",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL23.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 24,
+      "name_category": "DANGDUT KOPLO",
+      "title": "DALAN LIYANE",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL24.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 25,
+      "name_category": "DANGDUT KOPLO",
+      "title": "NINGGAL TATU",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL25.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 26,
+      "name_category": "DANGDUT KOPLO",
+      "title": "OJO GBLOK MENCINTA",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL26.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 27,
+      "name_category": "DANGDUT KOPLO",
+      "title": "TITPANE GUSTI",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL27.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 28,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SAMBEL TERASI",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL28.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 29,
+      "name_category": "DANGDUT KOPLO",
+      "title": "REMBULAN",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL29.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 30,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SEKO OPO ATIMU",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL30.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 31,
+      "name_category": "DANGDUT KOPLO",
+      "title": "BIDADARI CINTA",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL31.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 32,
+      "name_category": "DANGDUT KOPLO",
+      "title": "SETIA UNTUK SELAMANYA",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL31.ogg",
+      "lyrics": ""
+    },
+    {
+      "id": 33,
+      "name_category": "DANGDUT KOPLO",
+      "title": "MENDUNG TANPO UDAN",
+      "image": "file:///android_asset/image/RALB.jpg",
+      "link_mp3": "mp3/DANGPLORAL31.ogg",
+      "lyrics": ""
+    }
+  ]
+}
